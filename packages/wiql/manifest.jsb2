@@ -1,0 +1,22 @@
+{
+	"projectName": "wiql",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "wiql CSS",
+		"file": "wiql.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "wiql JS",
+		"file": "wiql.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
